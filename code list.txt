@@ -1,0 +1,16 @@
+001,Sok Pomarañczowy 1lt
+002,Chleb 1szt
+003,Lizak 1szt
+004,Orzeszki 100gr
+005,Coca Cola 0,5lt
+006,Chusteczki 25pack
+007,Mate Mate 330ml
+008,Rodzynki 300gr
+009,Dezodrant 1szt
+010,Kawa 1kg
+011,Olej z konopi 750ml
+012,Cukierki 10mg
+013,Woda Gazowana 500ml
+014,Zapa³ki 1szt
+015,Szampon 200ml
+016,Ser ¿ó³ty 200g
