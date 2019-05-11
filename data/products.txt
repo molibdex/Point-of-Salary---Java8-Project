@@ -1,0 +1,17 @@
+#PROD_ID,PROD_NAME,PROD_PRICE,PROD_BARCODE
+01,Sok Pomarańczowy 1lt,5.50,001
+02,Chleb 1szt,3.30,002
+03,Lizak 1szt,1.00,003
+04,Orzeszki 100gr,5.50,004
+05,Coca Cola 0,5lt,3.15,005
+06,Chusteczki 25pack,12.30,006
+07,Mate Mate 330ml,9.50,007
+08,Rodzynki 300gr,3.50,008
+09,Dezodrant 1szt,10.50,009
+10,Kawa 1kg,4.00,010
+11,Olej z konopi 750ml,24.30,011
+12,Cukierki 10mg,0.20,012
+13,Woda Gazowana 500ml,1.50,013
+14,Zapałki 1szt,0.50,014
+15,Szampon 200ml,12.30,015
+16,Ser żółty 200g,3.80,016
